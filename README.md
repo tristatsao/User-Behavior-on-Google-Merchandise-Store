@@ -1,4 +1,4 @@
-# Visualization
+# User Behavior on Google Merchandise Store (Tableau)
 This dashboard provides us a glance of user behavior on Google Merchandise store and the data was from the Google Analytics data collected on August 1, 2016. 
 
 In the first graph on the top, we can see that most of the revenue were generated from the Northern America users. Most of them spent less than 50 USD dollars on the website, but there are still 17 users who spent between 100 – 150 USD dollar. Since the users tend to buy cheaper products on the website, Google should try to increase the users’ average spending in order to increase the total revenue. For example, the store can offer packaged several office products together for bundle selling in a cheaper price than buying separately. 
