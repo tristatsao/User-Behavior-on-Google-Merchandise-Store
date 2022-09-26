@@ -9,4 +9,4 @@ From the left graph, we can infer that Northern America users mainly used deskto
 
 From the right graph, most of the visits from America are in the evening. It shows that most users have more free time to shop online during the evening which is also a good timing to reach the potential users. Thus, when launching the online ads about the Google Merchandise store, Google should allocate more ads spending during the evening or create a new post on social media during the evening.
 
-![image](https://user-images.githubusercontent.com/100707529/192318784-855c192f-6265-4970-aad2-9cd7df0e28ea.png)
+
